@@ -1,0 +1,7 @@
+C:\Users\BB\Documents\PROJE\WinFormsApp1\obj\Debug\net6.0-windows\kalkış iniş.csproj.AssemblyReference.cache
+C:\Users\BB\Documents\PROJE\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\BB\Documents\PROJE\WinFormsApp1\obj\Debug\net6.0-windows\kalkış iniş.csproj.GenerateResource.cache
+C:\Users\BB\Documents\PROJE\WinFormsApp1\obj\Debug\net6.0-windows\kalkış iniş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB\Documents\PROJE\WinFormsApp1\obj\Debug\net6.0-windows\kalkış iniş.AssemblyInfoInputs.cache
+C:\Users\BB\Documents\PROJE\WinFormsApp1\obj\Debug\net6.0-windows\kalkış iniş.AssemblyInfo.cs
+C:\Users\BB\Documents\PROJE\WinFormsApp1\obj\Debug\net6.0-windows\kalkış iniş.csproj.CoreCompileInputs.cache
